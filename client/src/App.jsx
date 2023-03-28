@@ -8,7 +8,7 @@ function App() {
   const [address, setAddress] = useState("");
 
   return (
-    <div className="app">
+    <div className="appp">
       <Wallet
         balance={balance}
         setBalance={setBalance}
